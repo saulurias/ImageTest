@@ -1,0 +1,6 @@
+framework module Pods_Imagetest {
+  umbrella header "Pods-Imagetest-umbrella.h"
+
+  export *
+  module * { export * }
+}
